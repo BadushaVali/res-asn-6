@@ -12,7 +12,6 @@ div{
     background-repeat: no-repeat;
     background-position: fixed;
     background-size: cover;
-    
 }
 .logo{
     padding: 30px;
@@ -20,7 +19,7 @@ div{
 .model{
     width: 100vw;
     height: 35vh;
-    margin-bottom: 35px;
+    margin-bottom: 25px;
 }
 h1, p, form{
     text-align: center;
@@ -38,7 +37,7 @@ p{
     color: rgb(194, 111, 109);
     font-weight: 600;
     line-height: 25px;
-    margin-bottom: 15px;
+    margin-bottom: 25px;
 }
 input{
     width: 75vw;
@@ -76,12 +75,12 @@ input::placeholder{
 
 @media only screen and (min-width: 600px) {
     .logo{
-        padding: 60px;
+        padding: 50px;
     }
     .model{
         width: 100vw;
         height: 35vh;
-        margin-bottom: 50px;
+        margin-bottom: 30px;
     }
     h1, p, form{
         text-align: center;
@@ -96,7 +95,7 @@ input::placeholder{
         color: rgb(194, 111, 109);
         font-weight: 600;
         line-height: 40px;
-        margin-bottom: 25px;
+        margin-bottom: 45px;
         font-size: 2rem;
     }
    
@@ -194,7 +193,6 @@ input::placeholder{
         top: 0;
         right: 0;
         bottom:0;
-
     }
 }
 
